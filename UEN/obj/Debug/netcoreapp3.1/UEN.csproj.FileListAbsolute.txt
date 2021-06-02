@@ -1,0 +1,13 @@
+C:\Users\Yau\source\repos\UEN\bin\Debug\netcoreapp3.1\UEN.exe
+C:\Users\Yau\source\repos\UEN\bin\Debug\netcoreapp3.1\UEN.deps.json
+C:\Users\Yau\source\repos\UEN\bin\Debug\netcoreapp3.1\UEN.runtimeconfig.json
+C:\Users\Yau\source\repos\UEN\bin\Debug\netcoreapp3.1\UEN.runtimeconfig.dev.json
+C:\Users\Yau\source\repos\UEN\bin\Debug\netcoreapp3.1\UEN.dll
+C:\Users\Yau\source\repos\UEN\bin\Debug\netcoreapp3.1\UEN.pdb
+C:\Users\Yau\source\repos\UEN\obj\Debug\netcoreapp3.1\UEN.csprojAssemblyReference.cache
+C:\Users\Yau\source\repos\UEN\obj\Debug\netcoreapp3.1\UEN.AssemblyInfoInputs.cache
+C:\Users\Yau\source\repos\UEN\obj\Debug\netcoreapp3.1\UEN.AssemblyInfo.cs
+C:\Users\Yau\source\repos\UEN\obj\Debug\netcoreapp3.1\UEN.csproj.CoreCompileInputs.cache
+C:\Users\Yau\source\repos\UEN\obj\Debug\netcoreapp3.1\UEN.dll
+C:\Users\Yau\source\repos\UEN\obj\Debug\netcoreapp3.1\UEN.pdb
+C:\Users\Yau\source\repos\UEN\obj\Debug\netcoreapp3.1\UEN.genruntimeconfig.cache
